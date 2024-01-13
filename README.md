@@ -1,1 +1,3 @@
-Language server for the MiniMl language
+### MiniMl VsCode
+
+Vscode language client for the MiniMl language
